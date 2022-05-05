@@ -16,3 +16,8 @@ Repositório da disciplina Pensamento Computacional no Novo Ensino Médio
 2. [Github: Criando seu portifólio digital](https://cursos.alura.com.br/course/github-criando-portifolio-digital)
    - [Começando no GitHub](https://cursos.alura.com.br/course/github-criando-portifolio-digital/task/100572)
    - [Criando repositórios no GitHub](https://cursos.alura.com.br/course/github-criando-portifolio-digital/task/100575)
+
+# Jogo do Pong
+![iconJavascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+- Foi utilizado a linguagem de programação JavaScript durante o desenvolvimento do projeto.
+- [Clique aqui para acessar o jogo](https://editor.p5js.org/caroline.smecelato/full/QFJyfQLqU)
